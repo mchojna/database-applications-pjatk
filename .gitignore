@@ -110,6 +110,8 @@ bin/
 obj/
 */bin/
 */obj/
+*/bin/*
+*/obj/*
 .idea/
 riderModule.iml
 /_ReSharper.Caches/
